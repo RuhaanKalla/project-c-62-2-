@@ -1,0 +1,63 @@
+h1 {
+    color:darkblue;
+    text-shadow: 5px 2px gainsboro;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+img{
+    width: 250px;
+    height:300px;
+    border: solid;
+    border-color: orangered;
+    border-radius: 30px;
+    
+}
+
+body{
+    background:linear-gradient(#54F2F2 0%,#AC00E0 100%);
+    margin:20px;
+    text-align: center;
+    align-items: center;
+}
+
+.pictures{
+    margin-right: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    padding:20px;
+    
+}
+
+.grid{
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.line{
+    height: 6px;
+    width:70px;
+    background-color: darkred;
+   
+}
+
+h2{
+    color:darkmagenta;
+    text-shadow: 5px 2px gainsboro;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+#mycarousel{
+     background-color: brown;
+    font-size: 25px;
+    color:floralwhite;
+    
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+
